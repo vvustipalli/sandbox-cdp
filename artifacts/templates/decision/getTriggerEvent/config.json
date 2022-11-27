@@ -1,0 +1,15 @@
+{
+  "name": "getTriggerEvents",
+  "archived": false,
+  "friendlyId": "gettriggerevent_l4oyrahze3",
+  "type": "DECISION",
+  "status": "PUBLISHED",
+  "icon": "",
+  "additionalFields": {
+    "decisionOutputReference": "getnumberofevents",
+    "decisionReturnType": "String"
+  },
+  "defaultTemplate": false,
+  "tags": ["Source Control"],
+  "customTemplate": true
+}

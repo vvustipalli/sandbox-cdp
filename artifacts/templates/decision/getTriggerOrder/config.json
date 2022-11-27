@@ -1,0 +1,15 @@
+{
+  "name": "getTriggerOrder",
+  "archived": false,
+  "friendlyId": "gettriggerorder_1r325y9ind",
+  "type": "DECISION",
+  "status": "PUBLISHED",
+  "icon": "",
+  "additionalFields": {
+    "decisionOutputReference": "gettriggerorder",
+    "decisionReturnType": "String"
+  },
+  "defaultTemplate": false,
+  "tags": ["Source Control"],
+  "customTemplate": true
+}
