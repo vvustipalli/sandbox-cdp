@@ -6,6 +6,6 @@
   "status": "DRAFT",
   "icon": "",
   "defaultTemplate": false,
-  "tags": ["VV Source Control TEST"],
+  "tags": ["Source Control TEST"],
   "customTemplate": true
 }
