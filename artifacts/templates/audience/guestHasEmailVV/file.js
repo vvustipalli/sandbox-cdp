@@ -4,6 +4,6 @@
 // The value returned can be accessed from the variant API response as 'filter'
 
 (function () {
-    // truthy check on email
-    return !!guest.email;
-  })();
+  // truthy check on email
+  return !!guest.email;
+})();

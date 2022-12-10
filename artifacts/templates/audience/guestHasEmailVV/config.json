@@ -1,11 +1,11 @@
 {
-  "name": "Guest Has Email",
+  "name": "Guest Has Email VV",
   "archived": false,
-  "friendlyId": "guest_has_email_5159fa66ef",
+  "friendlyId": "guest_has_email_vv",
   "type": "AUDIENCE",
   "status": "DRAFT",
   "icon": "",
   "defaultTemplate": false,
-  "tags": ["Source Control"],
+  "tags": ["VV Source Control TEST"],
   "customTemplate": true
 }
